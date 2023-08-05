@@ -1,6 +1,6 @@
 # Jogo da memória (Genius) com Arduino
 
-Projeto desenvolvido no primeiro semestre do curso de **Análise e Desenvolvimento de Sistemas  (IFSP)**, na matéria **Arquitetura de Computadores**. Foi utilizado no projeto o **Arduino Uno**.
+Projeto desenvolvido no primeiro semestre do curso de **Análise e Desenvolvimento de Sistemas  (IFSP)** (2018), para a matéria **Arquitetura de Computadores**. Foi utilizado no projeto o **Arduino Uno**.
 
 Existem dois tipos de jogo que podem ser selecionados através do **Botão 1** e do **Botão 2**.
 
